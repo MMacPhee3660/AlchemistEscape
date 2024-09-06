@@ -6,3 +6,4 @@ Maywen 9/4: https://www.puzzlescript.net/editor.html?hack=cf9d8acf829b51b131831c
 Oscar 9/6: https://www.puzzlescript.net/editor.html?hack=7cd9c2dbf58d9a1c6fe5d249e93cd435
 
 Maywen 9/6: https://www.puzzlescript.net/editor.html?hack=67328b579bf2b0135b397f122adc4521
+https://www.puzzlescript.net/editor.html?hack=4ee0fb5b056069adf9bc61417a050f1f
