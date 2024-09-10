@@ -9,3 +9,4 @@ https://www.puzzlescript.net/editor.html?hack=06e00838d2fefec98e543cc91a87fd4f
 Maywen 9/6: https://www.puzzlescript.net/editor.html?hack=67328b579bf2b0135b397f122adc4521
 https://www.puzzlescript.net/editor.html?hack=4ee0fb5b056069adf9bc61417a050f1f
 https://www.puzzlescript.net/editor.html?hack=65848efd17b19d7b2b5be8692776cdbb
+https://www.puzzlescript.net/editor.html?hack=ed3724296a081151b3f1888df7f56b2e
